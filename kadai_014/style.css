@@ -1,0 +1,58 @@
+size_20{
+    font-size: 20px;
+}
+
+body{
+    font-family: "Arial", "Meiryo", sans-serif;
+    text-align: center;
+}
+
+.decoration{
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 40px;
+}
+
+
+h1{
+    letter-spacing: 1.5em;
+    text-shadow: 1px 1px 2px gray;
+    border-bottom: solid 3px rgb(115, 115, 114);
+}
+
+
+.txt_color1{
+    color: skyblue;
+}
+
+ .txt_color2{
+    color:rgb(255, 192, 203)
+ }
+  
+.txt_color3{
+    color:rgb(255, 192, 203)
+}
+
+.txt_color4{
+    color: skyblue;
+}
+
+.txt_color5{
+      color:rgb(255, 192, 203)
+}
+
+.txt_color6{
+    color:skyblue;
+}
+
+.txt_color7{
+    color:rgb(255, 192, 203)
+}
+
+.txt_color8{
+    color:skyblue;
+}
+
+
+#parent > p {
+    font-weight: bold;
+}
